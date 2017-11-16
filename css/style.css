@@ -605,7 +605,7 @@ input[type=search]:focus{
 #btn-2:checked ~ .slides .slide:nth-child(2){
     display: block;
 }
-.button-controls-right label{
+.button-controls-left label{
     position: absolute;
     width: 21px;
     height: 40px;
@@ -615,13 +615,13 @@ input[type=search]:focus{
     z-index: 20;
     cursor: pointer;
 }
-.button-controls-left label{
+.button-controls-right label{
     position: absolute;
     width: 21px;
     height: 40px;
     top: 115px;
     right: 15px;
-    background-image: url(../img/icon-left.png);
+    background-image: url(../img/.icon-right.png);
     z-index: 20;
     cursor: pointer;
 }
