@@ -621,7 +621,7 @@ input[type=search]:focus{
     height: 40px;
     top: 115px;
     right: 15px;
-    background-image: url(../img/.icon-right.png);
+    background-image: url(../img/icon-left.png);
     z-index: 20;
     cursor: pointer;
 }
